@@ -1,8 +1,8 @@
-- Hi, I’m @nrcoover
-- I’m interested in computer programming, web development, and game development.
-- I’m currently learning HTML5, CSS, Javascript, and C#.
-- I’m looking to collaborate on ... [to be determined]
-- How to reach me: I'm on twitter @nrcoover.
+- Hello, I’m @nrcoover
+- Software Engineer - C# .NET Full-Stack Web Developer w/ React & Media Production Specialist
+- Working on Game Development with Unity & Godot
+- You can learn more about me at https://www.linkedin.com/in/nrcoover/
+- Website: https://www.nrcoover.com/
 
 <!---
 nrcoover/nrcoover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
